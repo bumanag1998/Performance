@@ -1,0 +1,19 @@
+GET https://push.services.mozilla.com:443/ HTTP/1.1
+Host: push.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Sec-WebSocket-Version: 13
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Protocol: push-notification
+Sec-WebSocket-Extensions: permessage-deflate
+Sec-WebSocket-Key: yHntMsoKU0+wHAWXwmkB0Q==
+Connection: keep-alive, Upgrade
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: websocket
+Sec-Fetch-Site: cross-site
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+

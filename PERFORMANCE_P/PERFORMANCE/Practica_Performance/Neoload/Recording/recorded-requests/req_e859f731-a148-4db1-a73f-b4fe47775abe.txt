@@ -1,0 +1,12 @@
+GET https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2 HTTP/2.0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+accept-language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+accept-encoding: identity
+referer: https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1721393199309
+cookie: orangehrm=7b2982041b4f90e848a221119641d7f3
+sec-fetch-dest: font
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+te: trailers
+

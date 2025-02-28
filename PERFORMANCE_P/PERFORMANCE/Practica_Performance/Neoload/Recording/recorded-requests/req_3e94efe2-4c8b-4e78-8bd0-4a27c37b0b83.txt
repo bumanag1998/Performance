@@ -1,0 +1,13 @@
+GET https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations HTTP/2.0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+accept: application/json
+accept-language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+accept-encoding: gzip, deflate, br, zstd
+cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+referer: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+cookie: orangehrm=7b2982041b4f90e848a221119641d7f3
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+te: trailers
+

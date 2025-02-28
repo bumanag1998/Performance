@@ -1,0 +1,8 @@
+GET https://contile.services.mozilla.com/v1/tiles HTTP/2.0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+accept: */*
+accept-language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+accept-encoding: gzip, deflate, br, zstd
+priority: u=4
+te: trailers
+

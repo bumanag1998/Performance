@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Trx_Api_Prueba
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.version=2024.3.0
+product.original.version=2024.2.0
+project.is-open-test-settings-after-upload=false
+project.id=00453647-8ae1-45ad-9cc1-5a76d2fd6273
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false

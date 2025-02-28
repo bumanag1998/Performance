@@ -1,0 +1,13 @@
+GET https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1721393199309 HTTP/2.0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+accept: */*
+accept-language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+accept-encoding: gzip, deflate, br, zstd
+referer: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+cookie: orangehrm=0b9e54585f98aad2f35fd3945de4e974
+sec-fetch-dest: script
+sec-fetch-mode: no-cors
+sec-fetch-site: same-origin
+priority: u=1
+te: trailers
+
